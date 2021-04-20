@@ -4,11 +4,11 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
           "start": "2021-04-20T02:49:47.105Z",
-          "end": "2021-04-20T02:49:47.141Z",
+          "end": "",
           "img": "/img/uploads/banner-loja-do-allu_prancheta-1.jpg"
         }
       ]
