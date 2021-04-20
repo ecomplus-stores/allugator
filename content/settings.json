@@ -1,5 +1,5 @@
 {
-  "domain": "allugator-8518.netlify.app",
+  "domain": "lojadoallu.com.br",
   "currency_symbol": "R$",
   "primary_color": "#0fcf58",
   "theme": {
@@ -19,6 +19,6 @@
   "secondary_color": "#161718",
   "icon": "/img/icon.png",
   "store_id": 1418,
-  "description": "allugator",
+  "description": "Loja do Allu: Os melhores eletrônicos seminovos do mercado",
   "large_icon": "/img/large-icon.png"
 }
