@@ -25,6 +25,11 @@
       "page": 1
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "page-title",
       "title": "Loja do Allu",
       "description": "Os melhores eletrônicos seminovos do mercado"
