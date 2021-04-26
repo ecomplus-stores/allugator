@@ -8,8 +8,8 @@
     "text": "Parcele em até 12x"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Garantia de 30 dias"
   },
   "promo": {
     "show": true,
