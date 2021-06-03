@@ -1,11 +1,11 @@
 {
   "pkg": "@ecomplus/widget-tawkto",
-  "active": true,
+  "active": false,
   "desktopOnly": false,
   "enableCheckout": false,
   "disablePages": true,
   "options": {
-    "tawktoPropertyId": "60b7d63d6699c7280daa6004",
+    "tawktoPropertyId": " ",
     "tawktoChatWidget": "default"
   },
   "bodyAppend": "src/append/body"
